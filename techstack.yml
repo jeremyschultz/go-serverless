@@ -1,7 +1,8 @@
 repo_name: jeremyschultz/go-serverless
 report_id: d5ea8ac58431477c7ae7fadaa0907f23
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T15:44:13+00:00'
+timestamp: '2024-01-05T08:51:07+00:00'
 requested_by: in28minutes
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jeremyschultz/go-serverless
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jeremyschultz/go-serverless
   detection_source: Repo Metadata
 - name: Mustache
   description: Logic-less templates
@@ -35,8 +38,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1142/197655.png
-  detection_source_url: 03.presentation/package.json
-  detection_source: 03.presentation/plugin/multiplex/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
+  detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
 - name: TypeScript
@@ -48,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/jeremyschultz/go-serverless
   detection_source: Repo Metadata
 - name: Angular
   description: A platform for building mobile and desktop web applications
@@ -59,7 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -74,8 +78,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
-  detection_source: 03.presentation/plugin/multiplex/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
+  detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
 - name: Node.js
@@ -87,6 +91,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -99,7 +104,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1796/984368.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -112,6 +117,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
   detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -123,7 +129,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
-  detection_source: 01.azure/azure-rest-api/updateTodo/index.js
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/01.azure/azure-rest-api/createTodo/index.js
+  detection_source: 01.azure/azure-rest-api/createTodo/index.js
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-19 11:42:55.000000000 Z
 - name: Socket.IO
@@ -135,8 +142,8 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
-  detection_source: 03.presentation/plugin/multiplex/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
+  detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
 - name: Chai
@@ -149,8 +156,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: 00.aws/sam/todo-sam-app/.aws-sam/build/CreateTodoFunction/package.json
-  detection_source: 00.aws/sam/todo-sam-app/todos/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/00.aws/sam/todo-sam-app/.aws-sam/build/CreateTodoFunction/package.json
+  detection_source: 00.aws/sam/todo-sam-app/.aws-sam/build/CreateTodoFunction/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
 - name: Git
@@ -161,6 +168,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jeremyschultz/go-serverless
   detection_source: Repo Metadata
 - name: Jasmine
   description: DOM-less simple JavaScript testing framework
@@ -171,7 +179,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -185,7 +193,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -200,8 +208,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: 00.aws/sam/todo-sam-app/.aws-sam/build/CreateTodoFunction/package.json
-  detection_source: 00.aws/sam/todo-sam-app/todos/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/00.aws/sam/todo-sam-app/.aws-sam/build/CreateTodoFunction/package.json
+  detection_source: 00.aws/sam/todo-sam-app/.aws-sam/build/CreateTodoFunction/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
 - name: Protractor
@@ -214,7 +222,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -226,6 +234,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -238,6 +247,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/.travis.yml
   detection_source: 03.presentation/.travis.yml
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -249,6 +259,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
   detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -261,6 +272,7 @@ tools:
   category: Application Hosting
   sub_category: Serverless / Task Processing
   image_url: https://img.stackshare.io/service/5095/serverless-logo.png
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/00.aws/serverless-framework/serverless.yml
   detection_source: 00.aws/serverless-framework/serverless.yml
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -274,8 +286,8 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: 00.aws/sam/todo-sam-app/.aws-sam/build/CreateTodoFunction/package.json
-  detection_source: 00.aws/sam/todo-sam-app/todos/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/00.aws/sam/todo-sam-app/.aws-sam/build/CreateTodoFunction/package.json
+  detection_source: 00.aws/sam/todo-sam-app/.aws-sam/build/CreateTodoFunction/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
 - name: "@angular-devkit/build-angular"
@@ -288,7 +300,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -302,7 +314,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -316,7 +328,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -330,7 +342,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -344,7 +356,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -358,7 +370,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -372,7 +384,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -386,7 +398,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -400,7 +412,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -414,7 +426,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -428,7 +440,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -442,7 +454,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16060/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -456,7 +468,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -470,8 +482,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
-  detection_source: 00.aws/sam/todo-sam-app/todos/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
+  detection_source: 00.aws/sam/todo-sam-app/.aws-sam/build/CreateTodoFunction/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
   vulnerabilities:
@@ -491,7 +503,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -505,8 +517,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
-  detection_source: 03.presentation/plugin/multiplex/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
+  detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
   vulnerabilities:
@@ -526,7 +538,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15835/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: 03.presentation/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
   detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -560,7 +572,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17148/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
-  detection_source_url: 03.presentation/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
   detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -574,8 +586,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16021/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: 03.presentation/package.json
-  detection_source: 03.presentation/plugin/multiplex/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
+  detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
 - name: grunt-contrib-connect
@@ -588,7 +600,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
-  detection_source_url: 03.presentation/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
   detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -602,7 +614,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16324/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
-  detection_source_url: 03.presentation/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
   detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -616,7 +628,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
-  detection_source_url: 03.presentation/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
   detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -630,7 +642,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16756/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
-  detection_source_url: 03.presentation/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
   detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -644,7 +656,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: 03.presentation/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
   detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -658,7 +670,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
-  detection_source_url: 03.presentation/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
   detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -672,7 +684,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16916/default_2e3ed47575edcaf407097e6171e3d4cb8681a6b3.png
-  detection_source_url: 03.presentation/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
   detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -686,7 +698,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -700,7 +712,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -714,7 +726,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -728,7 +740,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -742,7 +754,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -756,7 +768,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -770,7 +782,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: 03.presentation/package.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/03.presentation/package.json
   detection_source: 03.presentation/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -797,7 +809,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -811,7 +823,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
@@ -825,7 +837,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
-  detection_source_url: 02.frontend-todo-application/package-lock.json
+  detection_source_url: https://github.com/jeremyschultz/go-serverless/blob/master/02.frontend-todo-application/package-lock.json
   detection_source: 02.frontend-todo-application/package.json
   last_updated_by: Ranga Rao Karanam
   last_updated_on: 2020-09-09 12:27:21.000000000 Z
